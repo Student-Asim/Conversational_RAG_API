@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic[email]
+sentence-transformers
+nltk
+pymysql
+sqlalchemy
+python-dotenv
+redis
+pinecone
+transformers
+torch
+redis
+pdfplumber
+python-multipart
